@@ -1,7 +1,6 @@
 package chatapplication;
 
 import java.net.*;
-import java.io.*;
 
 public class Server {
 	public static final int port = 42069;
